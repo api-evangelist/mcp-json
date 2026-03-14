@@ -1,0 +1,14 @@
+name: mcp.json
+description: Model Context Protocol configuration file defining MCP server connections
+  for AI coding assistants, enabling tool integration and enhanced AI capabilities.
+url: ''
+tags:
+- AI Agents
+- MCP
+- Configuration
+- Developer Workflow
+- Tool Integration
+created: '2025'
+modified: '2025'
+apis: []
+common: []
