@@ -1,14 +1,25 @@
+aid: mcp-json
 name: mcp.json
-description: Model Context Protocol configuration file defining MCP server connections
-  for AI coding assistants, enabling tool integration and enhanced AI capabilities.
-url: ''
+description: >-
+  mcp.json is a Model Context Protocol configuration file format that defines
+  MCP server connections for AI coding assistants and agents. It enables tool
+  integration and enhanced AI capabilities through a standardized configuration
+  schema.
+type: Index
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+url: >-
+  https://raw.githubusercontent.com/api-evangelist/mcp-json/refs/heads/main/apis.yml
 tags:
-- AI Agents
-- MCP
-- Configuration
-- Developer Workflow
-- Tool Integration
-created: '2025'
-modified: '2025'
+  - AI Agents
+  - MCP
+  - Configuration
+  - Developer Workflow
+  - Tool Integration
+created: '2025-01-01'
+modified: '2026-03-16'
+specificationVersion: '0.19'
 apis: []
 common: []
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
