@@ -1,5 +1,5 @@
 aid: mcp-json
-name: mcp.json
+name: Mcp.json
 description: >-
   mcp.json is a Model Context Protocol configuration file format that defines
   MCP server connections for AI coding assistants and agents. It enables tool
