@@ -11,9 +11,9 @@ url: >-
   https://raw.githubusercontent.com/api-evangelist/mcp-json/refs/heads/main/apis.yml
 tags:
   - AI Agents
-  - MCP
   - Configuration
   - Developer Workflow
+  - MCP
   - Tool Integration
 created: '2025-01-01'
 modified: '2026-03-16'
