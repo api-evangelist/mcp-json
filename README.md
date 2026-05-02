@@ -16,7 +16,16 @@ mcp.json is a Model Context Protocol configuration file format that defines MCP 
 ## Timestamps
 
 - **Created:** 2025-01-01 
-- **Modified:** 2026-03-16 
+- **Modified:** 2026-04-28 
+
+## APIs
+
+No APIs have been documented yet. Check back for updates.
+
+## Common Properties
+
+- [Website](https://modelcontextprotocol.io)
+- [Documentation](https://modelcontextprotocol.io/docs)
 
 ## Maintainers
 
