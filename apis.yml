@@ -6,7 +6,7 @@ description: >-
   integration and enhanced AI capabilities through a standardized
   configuration schema.
 type: Index
-image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
 url: https://raw.githubusercontent.com/api-evangelist/mcp-json/refs/heads/main/apis.yml
 created: '2025-01-01'
 modified: '2026-04-28'
