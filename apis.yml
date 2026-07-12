@@ -19,6 +19,12 @@ tags:
   - Tool Integration
 apis: []
 common:
+  - type: VulnerabilityDisclosure
+    url: security/mcp-json-vulnerability-disclosure.yml
+  - type: DomainSecurity
+    url: security/mcp-json-domain-security.yml
+  - type: Blog
+    url: https://blog.modelcontextprotocol.io/index.xml
   - type: Website
     url: https://modelcontextprotocol.io
   - type: Documentation
