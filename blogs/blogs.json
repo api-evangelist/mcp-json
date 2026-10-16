@@ -6,20 +6,17 @@
       "feed_url": "https://blog.modelcontextprotocol.io/index.xml",
       "title": "",
       "saved": 0,
-      "method": "feed",
-      "nature": "vendor-blog",
-      "nature_basis": "blog_subdomain"
+      "method": "feed"
     },
     {
       "source": "https://raw.githubusercontent.com/api-evangelist/mcp-json/refs/heads/main/apis.yml",
       "feed_url": "https://raw.githubusercontent.com/api-evangelist/mcp-json/refs/heads/main/apis.yml",
       "title": "",
       "saved": 0,
-      "method": "none",
-      "error": "parse_failed"
+      "method": "none"
     }
   ],
-  "fetched": "2026-10-03T12:15:37Z",
+  "fetched": "2026-10-10T13:15:00Z",
   "post_count": 26,
   "feed_nature": "vendor-blog",
   "feed_nature_basis": "blog_subdomain",
