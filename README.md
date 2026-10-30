@@ -1,4 +1,4 @@
-# mcp.json (mcp-json)
+# mcp.json
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -66,34 +66,43 @@
 
 mcp.json is a Model Context Protocol configuration file format that defines MCP server connections for AI coding assistants and agents. It enables tool integration and enhanced AI capabilities through a standardized configuration schema.
 
-**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/mcp-json/refs/heads/main/apis.yml)
+**Areas:** AI Agents · Configuration · Developer Workflow · MCP · Tool Integration
 
-## Scope
+## mcp.json on APIs.io
 
-- **Type:** Index 
-- **Position:** Consuming 
-- **Access:** 3rd-Party 
+Everything profiled for mcp.json is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/mcp-json/](https://apis.io/providers/mcp-json/)** — or go straight to one of the APIs or properties below.
 
-## Tags:
+### Published properties
 
- - AI Agents, MCP, Configuration, Developer Workflow, Tool Integration
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-## Timestamps
+#### Security (2)
 
-- **Created:** 2025-01-01 
-- **Modified:** 2026-04-28 
+Authentication, trust centre, and vulnerability disclosure.
 
-## APIs
+- [Mcp Json Domain Security](https://apis.io/security/mcp-json/mcp-json-domain-security/)
+- [Mcp Json Vulnerability Disclosure](https://apis.io/security/mcp-json/mcp-json-vulnerability-disclosure/)
 
-No APIs have been documented yet. Check back for updates.
+## Where to find this API
 
-## Common Properties
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://modelcontextprotocol.io)
 - [Documentation](https://modelcontextprotocol.io/docs)
+- [Blog](https://blog.modelcontextprotocol.io/index.xml)
 
-## Maintainers
+## API Evangelist rating
 
-**FN:** Kin Lane
+Not yet rated. See [apis.io/providers/mcp-json/](https://apis.io/providers/mcp-json/).
 
-**Email:** kin@apievangelist.com
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for mcp.json: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/mcp-json/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
